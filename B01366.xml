@@ -1,0 +1,321 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Amintas and Claudia: or, The merry shepherdess, Shewing whatever he from vertue did not draw, she circumvented with a ha, ha, ha, to the tune, called, Calm was the evening, and clear was the skie.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1670-1679?</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01366</idno>
+            <idno type="STC">Wing A3012</idno>
+            <idno type="STC">Interim Tract Supplement Guide EBB65H[5]</idno>
+            <idno type="EEBO-CITATION">99887029</idno>
+            <idno type="PROQUEST">ocm99887029</idno>
+            <idno type="VID">181755</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01366)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 181755)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A2:3[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Amintas and Claudia: or, The merry shepherdess, Shewing whatever he from vertue did not draw, she circumvented with a ha, ha, ha, to the tune, called, Calm was the evening, and clear was the skie.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts).  </extent>
+               <publicationStmt>
+                  <publisher>Printed for VV[illiam]. Thackeray, T[homas]. Passenger, and VV[illiam]. VVhitwood,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>[167-?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse: "Calm was the evening and clear was the sky ..."</note>
+                  <note>Date of publication and publisher's names from Wing.</note>
+                  <note>Reproduction of original in the Harvard University, Houghton Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:181755:1"/>
+            <!-- PDF PAGE 6 -->
+            <head>Amintas and Claudia:</head>
+            <head type="sub">Or, The Merry Shepherdeſs, 
+<l>S<gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>ig whatever he from Vertue did not draw,</l>
+               <l>She circumvented with a ha, ha, ha, </l>
+            </head>
+            <opener>To the Tune, called, <hi>Calm was the Evening, and Clear was the Skie.</hi>
+            </opener>
+            <p>
+               <figure/>
+            </p>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>
+                  <hi>CAlm</hi> was the Evening and clear was the Sky</l>
+               <l>when the new budding flowers do ſpring,</l>
+               <l>When all alone went <hi>Amintas</hi> and I,</l>
+               <l>to hear the ſweet Nightingals ſing;</l>
+               <l>I ſate and he laid him down by me,</l>
+               <l>and ſcarcely his breath he could draw,</l>
+               <l>But when with a fear,</l>
+               <l>He begun to draw near,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>He was daſht with a ha, ha, ha, ha, ha, ha,<lb/>
+ha, ha, ha, ha, ha, ha, ha.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>He bluſht to himſelf, and lay ſtill for a while</l>
+               <l>and his modeſty curb'd his deſire,</l>
+               <l>But ſtrait I convinc'd all his fears with a ſmile</l>
+               <l>and added new flames to his fire:</l>
+               <l>Ah <hi>Silvia</hi> ſaid he thou art cruel,</l>
+               <l>to keep thy poor lover in awe,</l>
+               <l>And once more he preſt,</l>
+               <l>His hands to my breaſt,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>But was daſht with a, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>I know 'twas his paſſion which cauſed all his fear</l>
+               <l>and therefore I pittied his caſe,</l>
+               <l>I whiſpered him ſoftly, there was no body near,</l>
+               <l>and I laid my cheek cloſe to his face;</l>
+               <l>But as he grew bolder and bolder,</l>
+               <l>a Shepherd came by us and ſaw,</l>
+               <l>And juſt as our bliſs.</l>
+               <l>Began with a kiſs.</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>He burſt out, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Come my own dear, Iets retire a while,</l>
+               <l>and haſten us down to the Grove,</l>
+               <l>Wherein ſome ſhade:</l>
+               <l>That nature hath made,</l>
+               <l>We'l make a rehearſal of love,</l>
+               <l>And when with love tales we a<gap reason="illegible: damage" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e tired,</l>
+               <l>and occaſion does bid us withdraw,</l>
+               <l>We then from our ſeat,</l>
+               <l>Will make a retreat,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>And laugh out, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>
+                  <hi>I</hi> Having conſented, away we did go,</l>
+               <l>and found out the thick of the Wood;</l>
+               <l>But when we came there,</l>
+               <l>I began for to fear,</l>
+               <l>His meaning portended no good:</l>
+               <l>My beauty likewiſe he would oftentimes praiſe</l>
+               <l>for the rareſt that ever he ſaw,</l>
+               <l>And there he would skip,</l>
+               <l>From my hand to my lip.</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>but was daſht with a ha, ha, ha, ha, ha, ha,<lb/>
+ha, ha, ha, ha, ha, ha, ha,</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Somtimes he wou'd ſigh, and ſomtimes he wou'd weep</l>
+               <l>and pray me to pitty his caſe;</l>
+               <l>But I found out by that</l>
+               <l>What he would be at,</l>
+               <l>His meaning I read in his face;</l>
+               <l>I bid him deſiſt and give over his ſuit,</l>
+               <l>For <hi>I</hi> told him my VVill was a law,</l>
+               <l>And if he were pleas'd</l>
+               <l>To have his pain eas'd.</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>He muſt laugh. &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>You know ſaid <hi>Amintas</hi> how long <hi>I</hi> have lov'd,</l>
+               <l>and ever reſtrain my deſire,</l>
+               <l>And now with your ſcorn,</l>
+               <l>VVhich cannot be born,</l>
+               <l>You ſeek to extinguiſh my fire;</l>
+               <l>My vertue will juſtifie all that I do,</l>
+               <l>to keep you at diſtance and awe:</l>
+               <l>And your looſe deſire,</l>
+               <l>VVill ſooner expire,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Then mirth, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>He ſat like a Mute, and was ſtill for a while,</l>
+               <l>conſulting what anſwer to make,</l>
+               <l>VVhen all in haſt,</l>
+               <l>He imbraced my VVaſt,</l>
+               <l>And no more my denyals would take.</l>
+               <l>He vow'd though my heart it were frozen,</l>
+               <l>his indeavor he'd uſe, it to thaw;</l>
+               <l>If the heat of your blood,</l>
+               <l>Cou'd do any good.</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>Which made, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>I found that his paſſion began to Rebel,</l>
+               <l>and Reaſon no more could prevail,</l>
+               <l>Thought <hi>I</hi> to my ſelf,</l>
+               <l>I am now on a ſhelf.</l>
+               <l>And know not which way for to ſail;</l>
+               <l>But if by my Policy <hi>I</hi> can get off,</l>
+               <l>and my honor preſerve without flaw,</l>
+               <l>Ile ingage me no more,</l>
+               <l>On ſuch dangerous ſhore,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>But at home, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>I uſed ſome perſwaſions that Evening was ni<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>,</l>
+               <l>for the Sun it began to decline,</l>
+               <l>And fearing ſome Swain,</l>
+               <l>Of the Neighboring plain,</l>
+               <l>Might come for to water his Kine;</l>
+               <l>I pray's him return and walk ſoftly along,</l>
+               <l>when 'twas dark i'd ſubmit to his law,</l>
+               <l>VVhere in my own Bower,</l>
+               <l>For the ſpace of an hour</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>He ſhou'd kiſs, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>His thoughts being tranſported with joy, he con<g ref="char:EOLhyphen"/>ceiv'd,</l>
+               <l>ne're fear'd, but my promiſe i'd keep</l>
+               <l>But inſtead of a Wench,</l>
+               <l>He found ſuch a Trench.</l>
+               <l>As charm'd all his ſences a ſleep:</l>
+               <l>The vertue whereof through his vitals diſperſt</l>
+               <l>and his faculties purer did draw;</l>
+               <l>And when I had done,</l>
+               <l>Away <hi>I</hi> did run,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>And laught out with a ha, ha, ha, ha, ha, ha,<lb/>
+ha, ha, ha, ha, ha, ha, ha.</hi>
+                  </l>
+               </lg>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London, <hi>Printed for</hi> VV. Thackeray, T. Paſſenger, <hi>and</hi> VV. VVhitwood.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
